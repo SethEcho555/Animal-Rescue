@@ -1,0 +1,43 @@
+body {
+  background-color: #0E2F44; /*dark blue*/
+}
+
+h1 {
+  color: red;
+}
+.example{
+  border-color: black;
+  border-style: dashed;
+}
+.button{
+ color: red;
+ background-color: gray;
+ padding:5px;
+ border-radius: 5px;
+ font-weight: bold;
+ color:#FFFFFF;
+ text-align:center;
+ width: auto;
+ margin: 5px, auto;
+ height: auto;
+}
+div{
+  text-align: center;
+  width: 1040px;
+}
+div.Animal.Rescue{
+
+  height: 125px;
+}
+div.Alexander.Archipelago.Wolf{
+
+  height: 362px;
+}
+div.Artic.Wolf{
+
+  height: 345px;
+}
+div.British.Columbian.Wolf{
+background-color: #42bcf4;
+  height: 333px;
+}
